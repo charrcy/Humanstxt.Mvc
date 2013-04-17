@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>humanstxt.mvc</id>
+    <version>1.0.4</version>
+    <authors>Charles Adewoye</authors>
+    <owners>Charles Adewoye</owners>
+    <licenseUrl>http://creativecommons.org/licenses/by-nc-sa/3.0/</licenseUrl>
+    <projectUrl>http://humanstxt.org/</projectUrl>
+    <iconUrl>http://humanstxt.org/img/logo-humans.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add humans.txt to the root of the Mvc project, and insert an image link at the buttom right corner of the website.</description>
+    <summary>Add humans.txt to the root of the Mvc project, and insert an image link at the buttom right corner of the website. it also adds the author tag to the head of the site. What is humans.txt? It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website
+    </summary>
+    <copyright>Copyright 2013</copyright>
+    <tags>humans.txt</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
